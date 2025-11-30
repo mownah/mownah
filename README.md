@@ -43,18 +43,19 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/mouneshwari-gaddamidhi-579a7938b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mouneshwari-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email-here@gmail.com">
+  <a href="mailto:mownahgaddamidhi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://medium.com/" target="_blank">
+  <a href="https://medium.com/@mownahgaddamidhi" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium"/>
   </a>
 </p>
 
 ---
+
 
 ### 🧰 Languages & Tools
 
