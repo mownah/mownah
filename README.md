@@ -35,7 +35,7 @@
 - 💡 Skilled in *SQL, Python, Power BI, Data Cleaning, and Business Analytics*  
 - 📊 Passionate about transforming raw data into actionable business insights  
 - 🧠 Exploring *EDA, Machine Learning, and Visualization*  
-- 📝 Writing on **[Medium](https://medium.com/)**  
+- 📝 Writing on **[Medium](https://medium.com/@mownahgaddamidhi))**  
 - 📫 Reach me: *mownahgaddamidhi@gmail.com*
 
 ---
