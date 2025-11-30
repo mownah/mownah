@@ -36,7 +36,7 @@
 - 📊 Passionate about transforming raw data into actionable business insights  
 - 🧠 Exploring *EDA, Machine Learning, and Visualization*  
 - 📝 Writing on **[Medium](https://medium.com/)**  
-- 📫 Reach me: *your-email-here@gmail.com*
+- 📫 Reach me: *mownahgaddamidhi@gmail.com*
 
 ---
 
